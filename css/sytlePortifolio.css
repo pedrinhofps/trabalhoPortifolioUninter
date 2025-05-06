@@ -40,7 +40,6 @@ body {
     border-top: 1px solid #f1f2f6;
 }
 
-/* Navegação */
 #menuNavegacao {
     display: flex;
     justify-content: center;
@@ -117,7 +116,6 @@ button a.active {
     }
 }
 
-/* Novos estilos */
 .imagem-container {
     margin: 2rem 0;
     text-align: center;

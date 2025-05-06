@@ -40,7 +40,6 @@ body {
     border-top: 1px solid #f1f2f6;
 }
 
-/* Navegação */
 #menuNavegacao {
     display: flex;
     justify-content: center;
@@ -79,7 +78,6 @@ button a.active {
     color: white;
 }
 
-/* Conteúdo Principal */
 h1 {
     color: #2d3436;
     text-align: center;
@@ -98,7 +96,6 @@ h2 {
     gap: 10px;
 }
 
-/* Seção Formação */
 .formacao-item {
     margin-bottom: 2rem;
     padding: 1.5rem;
@@ -128,7 +125,6 @@ h2 {
     color: #2d3436;
 }
 
-/* Seção Habilidades */
 .habilidades-lista {
     list-style: none;
     margin: 1rem 0 2rem;
@@ -156,7 +152,6 @@ h2 {
     min-width: 80px;
 }
 
-/* Responsivo */
 @media (max-width: 768px) {
     .card {
         padding: 1.5rem;

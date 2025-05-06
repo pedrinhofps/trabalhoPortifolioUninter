@@ -40,7 +40,6 @@ body {
     border-top: 1px solid #f1f2f6;
 }
 
-/* Navegação */
 #menuNavegacao {
     display: flex;
     justify-content: center;
@@ -79,7 +78,6 @@ button a.active {
     color: white;
 }
 
-/* Formulário de Contato */
 h1 {
     color: #2d3436;
     text-align: center;
@@ -142,7 +140,6 @@ textarea:focus {
     transform: translateY(-2px);
 }
 
-/* Responsivo */
 @media (max-width: 768px) {
     .card {
         padding: 1.5rem;
